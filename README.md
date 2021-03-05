@@ -15,3 +15,4 @@ Popular, trustworthy password managers include 1Password and LastPass. You can f
 You can also use your browser’s built-in password syncing service, although it’s considered less safe and more vulnerable to hacking, so use with caution
 
 ![image](https://user-images.githubusercontent.com/80048374/109994359-85563b80-7d0d-11eb-8ce8-bbde0bc7b8ab.png)
+
